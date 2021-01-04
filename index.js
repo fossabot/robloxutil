@@ -1,6 +1,5 @@
 const { app, BrowserWindow, TouchBar, shell, Menu, MenuItem }                  = require('electron');
 const { TouchBarLabel, TouchBarButton, TouchBarSpacer } = TouchBar
-const user                                              = require('roblox-user-info');
 const prompt                                            = require('electron-prompt');
 const fs                                                = require('fs')
 
