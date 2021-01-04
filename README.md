@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://streamable.com/461d95">RobloxUtil Preview</a>
+**<a href="https://streamable.com/461d95">RobloxUtil Preview</a>**
   
 This is a Roblox Utility App which can be used for various uses.
 
