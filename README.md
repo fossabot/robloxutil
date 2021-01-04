@@ -125,8 +125,8 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 
 ## Acknowledgements
 * [Img Shields](https://shields.io)
-* [Materialize](materializecss.com)
-* [Material Icons](material.io/resources/icons)
+* [Materialize](https://materializecss.com)
+* [Material Icons](https://material.io/resources/icons)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
