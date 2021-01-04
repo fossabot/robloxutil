@@ -187,4 +187,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/JuiciiYT/robloxutil.svg?style=for-the-badge
 [issues-url]: https://github.com/JuiciiYT/robloxutil/issues
 [license-shield]: https://img.shields.io/github/license/JuiciiYT/robloxutil.svg?style=for-the-badge
-[license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE
+[license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE.txt
