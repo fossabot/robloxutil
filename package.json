@@ -1,0 +1,21 @@
+{
+  "name": "Roblox-User-Info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cliqz/adblocker-electron": "^1.19.0",
+    "cross-fetch": "^3.0.6",
+    "electron": "^11.1.1",
+    "electron-prompt": "^1.6.0",
+    "roblox-user-info": "^1.1.1",
+    "roblox-user-information": "^1.0.0"
+  }
+}
