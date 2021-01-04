@@ -123,7 +123,10 @@ Twitter - [@juicii_official](https://twitter.com/juicii_official)
 
 Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/JuiciiYT/robloxutil)
 
-
+## Acknowledgements
+* [Img Shields](https://shields.io)
+* [Materialize](materializecss.com)
+* [Material Icons](material.io/resources/icons)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
