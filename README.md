@@ -3,7 +3,7 @@
 
 <!-- PROJECT SHIELDS -->
 
-                [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -127,7 +127,6 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/JuiciiYT/robloxutil.svg?style=for-the-badge
 [contributors-url]: https://github.com/JuiciiYT/robloxutil/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/JuiciiYT/robloxutil.svg?style=for-the-badge
