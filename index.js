@@ -1,6 +1,6 @@
 const { app, BrowserWindow, TouchBar, shell, Menu, MenuItem }                  = require('electron');
 const { TouchBarLabel, TouchBarButton, TouchBarSpacer } = TouchBar
-const prompt                                            = require('electron-prompt');
+const prompt                                            = require('electron-prompt-redux');
 const fs                                                = require('fs')
 
 const menu = new Menu()
