@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![RobloxUtil Preview][product-preview]](https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif)
+<img src="https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif" alt="RobloxUtil Preview">
 
 This is a Roblox Utility App which can be used for various uses.
 
