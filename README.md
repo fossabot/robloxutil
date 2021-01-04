@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](#)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -70,9 +70,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Electron](https://www.npmjs.com/package/electron)
+* [Roblox-User-Information](https://www.npmjs.com/package/roblox-user-information)
 
 
 
@@ -81,24 +80,28 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
+
+#### Method 1
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/JuiciiYT/robloxutil.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
+3. Start the app
+   ```sh
+   npm start
+   ```
+
+#### Method 2
+
+1. Go to Releases
+
+2. Download the version for your system
 
 
 
@@ -126,9 +129,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/juicii_official) - email
+Your Name - [@juicii_official](https://twitter.com/juicii_official) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/JuiciiYT/robloxutil)
+Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/JuiciiYT/robloxutil)
 
 
 
@@ -155,3 +158,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/JuiciiYT/robloxutil/issues
 [license-shield]: https://img.shields.io/github/license/JuiciiYT/robloxutil.svg?style=for-the-badge
 [license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE.txt
+[product-screenshot]: https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.md.gif
