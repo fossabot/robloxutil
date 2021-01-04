@@ -10,3 +10,5 @@ An electron app which gets the information of a Roblox user.
 - Groups
 - Image Link
 - Go to their account
+
+#### Support for Dark Mode
