@@ -63,9 +63,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](#)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+This is a Roblox Utility App which can be used for various uses.
+
+Eg.
+- Roblox User Finder
 
 
 ### Built With
@@ -104,16 +105,6 @@ To get a local copy up and running follow these simple steps.
 2. Download the version for your system
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -129,19 +120,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@juicii_official](https://twitter.com/juicii_official) - email
+Twitter - [@juicii_official](https://twitter.com/juicii_official)
 
 Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/JuiciiYT/robloxutil)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
 
 
 
@@ -158,4 +139,4 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 [issues-url]: https://github.com/JuiciiYT/robloxutil/issues
 [license-shield]: https://img.shields.io/github/license/JuiciiYT/robloxutil.svg?style=for-the-badge
 [license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE.txt
-[product-screenshot]: https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.md.gif
+[product-screenshot]: https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif
