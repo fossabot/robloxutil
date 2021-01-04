@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](#)
+[![RobloxUtil Preview][https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif]](#)
 
 This is a Roblox Utility App which can be used for various uses.
 
@@ -137,4 +137,3 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 [issues-url]: https://github.com/JuiciiYT/robloxutil/issues
 [license-shield]: https://img.shields.io/github/license/JuiciiYT/robloxutil.svg?style=for-the-badge
 [license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE.txt
-[product-screenshot]: https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif
