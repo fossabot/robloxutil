@@ -24,9 +24,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      - name: Install Dependencies
-        run: sudo npm i
       
-      - name: Test the app
-        run: npm start
+      - name: Testing
+        run: |
+          echo Testing Start
+          npm i
+          echo Done!
