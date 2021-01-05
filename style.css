@@ -47,6 +47,7 @@ nav{
     .whiters { color:white!important;}
     li a i, li a{ color:white!important;}
     .subheader {color: #99AAB5!important;}
+    #header, #content {color:black!important;}
   }
   
   @media (prefers-color-scheme: light) {

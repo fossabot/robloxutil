@@ -5,13 +5,23 @@ const fs                                                = require('fs')
 
 const menu = new Menu()
 menu.append(new MenuItem({
-  label: 'Roblox User Info',
+  label: 'RobloxUtil',
   submenu: [{
     role: 'help',
     accelerator: process.platform === 'darwin' ? 'Cmd+H' : 'Ctrl+H',
     click: () => { shell.openPath("./help.html") }
   }]
 }))
+
+menu.append(new MenuItem({
+  label: 'Edit',
+  submenu: [{
+    role: 'copy',
+    accelerator: process.platform === 'darwin' ? 'Cmd+C' : 'Ctrl+C'
+  }]
+}))
+menu.append(new MenuItem({ label: 'Misc', submenu: [{ role: 'reload', accelerator: process.platform === 'darwin' ? 'Cmd+R' : 'Ctrl+R' }] }))
+
 
 Menu.setApplicationMenu(menu)
 
