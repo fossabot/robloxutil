@@ -9,7 +9,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Version][version-shield]][version-url]
-![Last Commit][last-commit]
 
 
 
