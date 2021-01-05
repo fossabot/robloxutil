@@ -8,6 +8,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![App Testing][testing-shield]]
 
 
 
@@ -141,4 +142,5 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 [issues-url]: https://github.com/JuiciiYT/robloxutil/issues
 [license-shield]: https://img.shields.io/github/license/JuiciiYT/robloxutil.svg?style=for-the-badge
 [license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE.txt
+[testing-shield]: https://github.com/JuiciiYT/robloxutil/workflows/App%20Testing/badge.svg?style=for-the-badge
 [product-preview]: https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif
