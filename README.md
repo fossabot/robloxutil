@@ -143,5 +143,5 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 [issues-url]: https://github.com/JuiciiYT/robloxutil/issues
 [license-shield]: https://img.shields.io/github/license/JuiciiYT/robloxutil.svg?style=for-the-badge
 [license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE.txt
-[testing-shield]: https://img.shields.io/github/package-json/v/JuiciYT/robloxutil
+[testing-shield]: https://img.shields.io/github/package-json/v/JuiciYT/robloxutil.svg?style=for-the-badge
 [product-preview]: https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif
