@@ -57,7 +57,7 @@ function createWindow () {
                     label: 'Report an issue', 
                     backgroundColor: '#FF0000',
                     click: () => {
-                        shell.openExternal(`mailto:juiciiofficial@gmail.com?subject=[ISSUE] Roblox User Grabber&body=%5BError%20Info%5D%0A%0ARoblox%20Username%3A%20${r}%0AError%20Type%3A%202%0ADevice%3A%20MacOS%0A%0A%5BUser%20Info%5D%0A%0A`)
+                        shell.openExternal(`mailto:robloxutil@gmail.com?subject=[ISSUE] Roblox User Grabber&body=%5BError%20Info%5D%0A%0ARoblox%20Username%3A%20${r}%0AError%20Type%3A%202%0ADevice%3A%20MacOS%0A%0A%5BUser%20Info%5D%0A%0A`)
                       }
                 })
                 const touchBar                                          = new TouchBar({ items: [ username, new TouchBarSpacer({ size: 'small' }), issue ] })
