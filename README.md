@@ -8,7 +8,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Version][testing-shield]]
+[![Version][testing-shield]][https://github.com/JuiciiYT/robloxutil/blob/master/package.json]
 
 
 
