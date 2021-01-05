@@ -128,7 +128,7 @@ $.getJSON( "./user.json", function( data ) {
     document.getElementById("content3").innerHTML = `${str3}`;
   document.getElementById("name").innerHTML = `<span class="white-text name">${data.username}</span>`;
   document.getElementById("email").innerHTML = `<span class="white-text email">${data.last_online}</span>`;
-  document.getElementById("rbx-goto").innerHTML = `<li><a href="#" onclick="window.open('https://web.roblox.com/users/${data.id}/profile')"><i class="material-icons">exit_to_app</i>Go to Roblox Account</a></li>`;
+  document.getElementById("rbx-goto").innerHTML = `<li><a href="#" onclick="myFunction()"><i class="material-icons">exit_to_app</i>Go to Roblox Account</a></li>`;
   }
 });
 
@@ -136,4 +136,16 @@ document.addEventListener('DOMContentLoaded', function() {
     var elems = document.querySelectorAll('.modal');
     var instances = M.Modal.init(elems);
   });
+
+  function myFunction() {
+    var shell = require('electron').shell;
+                         event.preventDefault();
+    $.getJSON( "./user.json", function( data ) { let str4 = data.id; shell.openExternal(`https://roblox.com/users/${ str4 }/profile`); })
+    
+                        
+                          
+
+
+                        }
+
 </script>

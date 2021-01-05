@@ -1,11 +1,18 @@
-<div class="container">
-<img src="https://cdn.dribbble.com/users/148781/screenshots/2626743/airhorn.gif">
-<div class="centered"><h1><br><br><br><br>Loading<span id="wait"></span></h1></div>
-</div>
+
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+            
+
+<div class="centered"><h1>Loading<span id="wait"></span></h1><br><div class="progress blue">
+  <div class="indeterminate blue darken-4"></div>
+</div></div>
 <style>
     .container {
   position: relative;
-  text-align: center;
 }
 
 /* Bottom left text */
@@ -39,9 +46,9 @@
 /* Centered text */
 .centered {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 50%!important;
+  left: 50%!important;
+  transform: translate(-50%, -50%)!important;
   font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
@@ -59,6 +66,23 @@
 -o-user-drag: none;
 user-drag: none;
     }
+
+    h1{
+      font-weight: bold;
+    }
+
+    @media (prefers-color-scheme: dark) {
+    body { background:  #23272A; color: white; }
+    .sidenav {background: #2C2F33!important; }
+    .whiters { color:white!important;}
+    li a i, li a{ color:white!important;}
+    .subheader {color: #99AAB5!important;}
+    #header, #content {color:black!important;}
+  }
+  
+  @media (prefers-color-scheme: light) {
+    body { background:  #fff; color: black; }
+  }
 </style>
 <script>
     var dots = window.setInterval( function() {
