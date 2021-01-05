@@ -127,6 +127,7 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 * [Img Shields](https://shields.io)
 * [Materialize](https://materializecss.com)
 * [Material Icons](https://material.io/resources/icons)
+* [jQuery](https://code.jquery.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
