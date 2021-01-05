@@ -9,7 +9,7 @@ menu.append(new MenuItem({
   submenu: [{
     role: 'help',
     accelerator: process.platform === 'darwin' ? 'Cmd+H' : 'Ctrl+H',
-    click: () => { shell.openPath("./help.html") }
+    click: () => { shell.openExternal("https://github.com/RobloxUtil/robloxutil/issues") }
   }]
 }))
 
