@@ -9,6 +9,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Version][version-shield]][version-url]
+![Last Commit][last-commit]
 
 
 
@@ -145,4 +146,5 @@ Project Link: [https://github.com/JuiciiYT/robloxutil](https://github.com/Juicii
 [license-url]: https://github.com/JuiciiYT/robloxutil/blob/master/LICENSE.txt
 [version-shield]: https://img.shields.io/github/package-json/v/JuiciiYT/robloxutil.svg?style=for-the-badge
 [version-url]: https://github.com/JuiciiYT/robloxutil/blob/master/package.json
+[last-commit]: https://img.shields.io/github/last-commit/JuiciiYT/robloxutil.svg?style=for-the-badge
 [product-preview]: https://s8.gifyu.com/images/Screen-Recording-2021-01-04-at-1.gif
